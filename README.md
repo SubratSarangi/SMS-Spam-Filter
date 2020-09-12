@@ -9,13 +9,11 @@ A simple SMS Spam Detection Model using Multinomial Naive Bayes Classifier.
 
 # Data
 The model has been trained on a publicly available dataset on Kaggle.
-Link : https://www.kaggle.com/uciml/sms-spam-collection-dataset
+
+https://www.kaggle.com/uciml/sms-spam-collection-dataset
 
 # Results
-Train Accuracy - 0.978703
-
-Test Accuracy - 0.965542
-
-Test Recall - 0.748691
-
-Test Precision - 1.000000
+1. Train Accuracy - 0.978703
+2. Test Accuracy - 0.965542
+3. Test Recall - 0.748691
+4. Test Precision - 1.000000
